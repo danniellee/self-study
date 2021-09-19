@@ -1,7 +1,5 @@
----
-layout: single
-title: "보초법을 이용한 선형탐색"
----
+// "보초법을 이용한 선형탐색"
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
